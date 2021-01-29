@@ -1,0 +1,61 @@
+body {
+    width: max-content;
+    display:flex;
+    padding-left: 400px;
+}
+.BiggestBox{
+    width: 505px;
+}
+/* Icons and Name Top Bar */
+.HtmlImg{
+    width: 50px; 
+}
+.IconAndFalseButton{
+    height: 60px;
+    width: max-content;
+    margin-top: 20px;
+}
+.HtmlAndNameText{
+    margin-top: -50px; 
+    margin-left: 50px; width: 100px;
+}
+.HeadText{
+    margin-bottom: -5px;
+}
+.FalseButton{
+    display: flex;
+    padding-left: 80px;
+    margin-left: 400px;
+    margin-top: -60px;
+    margin-bottom: 10px;
+    width:100px; 
+}
+/* Image */
+.Image {
+    width: 500px;
+}
+/* Three buttons division */
+.ThreeButtons {
+    height: 40px;
+    width: 500px;
+    margin-top: 5px;
+}
+/* Heart, comment, send and bookmar buttons */
+.Heart{
+width: 40px;
+margin-bottom: -35px;
+}
+.Comment{
+width: 40px;
+margin-left: 40px;
+margin-bottom: -35px;
+}
+.Send{
+width: 40px;
+margin-bottom: -35px;
+margin-left: 80px;
+}
+.Bookmark{
+width: 40px;
+margin-left: 470px;
+}
